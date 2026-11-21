@@ -1,0 +1,10 @@
+.dart_tool/
+.packages
+.pub/
+build/
+node_modules/
+dist/
+.env
+*.log
+.idea/
+.vscode/
